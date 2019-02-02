@@ -1,2 +1,2 @@
 # php_basics
-Hello wrld app in php
+Hello world app in php
